@@ -1,0 +1,11 @@
+#bg-color{
+    text-align: justify;
+    color: brown;
+    margin: 0;
+    padding: 0;
+    background: yellow;
+}
+#size{
+    align-items: center;
+    display: inline;
+}
